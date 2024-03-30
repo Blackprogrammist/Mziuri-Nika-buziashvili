@@ -1,0 +1,30 @@
+body {
+    background-color: #111; /* light black background */
+    color: #fff; /* white font color */
+    font-family: Arial, sans-serif; /* fallback font */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.anime-links ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.anime-links ul li {
+    margin-bottom: 10px;
+}
+
+.anime-links ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.anime-links ul li a:hover {
+    color: #ccc; /* light gray on hover */
+}
+
